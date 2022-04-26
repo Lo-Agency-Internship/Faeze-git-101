@@ -16,4 +16,10 @@
 |**repository**|is a project file storage directory you can save anything related to the project you are creating and is housed in the storage or GitHub or a local repository on your computer.| 
 |**stash**|To save changes made when they’re not in a state to commit them to a repository. This will store the work and give a clean working directory|
 
+# Najmeh
+| phrases | definitions|
+| :------------- |:---------------|
+|**clone**|The action of making copy of a repository is called cloning. This action lets you to make a copy of a remote repository on your local system.|
+|**rebase**|The action of committing different branches into a final one.|
+|**cherry-pick**|The process of committing a branch into another one.|
 
